@@ -362,8 +362,8 @@ section.module.parallax-2 a {
   text-transform: uppercase;
   padding: 1.5%;
   background-color: #555;
-  display: inline-block;
-  width: 40%;
+  display: block;
+  width: 25%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
