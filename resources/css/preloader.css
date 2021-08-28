@@ -54,8 +54,8 @@
   -webkit-animation: spinner 1s infinite linear;
           animation: spinner 1s infinite linear;
 	border-radius: 50%;
-  border: 16px solid rgba(223, 157, 43, 0.2);
-  border-top-color: #DF9D2B;
+  border: 16px solid rgba(85, 116, 202, 0.2);
+  border-top-color: #425e92;
   height: 9em;
   margin: 0 auto 3.5em auto;
   width: 9em;
@@ -74,7 +74,7 @@
 .ctn-preloader .animation-preloader .txt-loading .letters-loading:before {
   -webkit-animation: letters-loading 4s infinite;
           animation: letters-loading 4s infinite;
-  color: #DF9D2B;
+  color: #425e92;
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
@@ -167,7 +167,7 @@
 
 /* Loader section Settings */
 .ctn-preloader .loader-section {
-  background-color: #FFF;
+  background-color: #333;
   height: 100%;
 	position: fixed;
   top: 0;
