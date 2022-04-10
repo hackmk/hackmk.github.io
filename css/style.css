@@ -285,7 +285,7 @@ ul.costomer li a {
 }
 
 .text-bg span {
-     color: #7bb8f1;
+     color: #ffde59;
      font-size: 60px;
      line-height: 77px;
      font-weight: bold;
@@ -311,7 +311,7 @@ ul.costomer li a {
 }
 
 .text-bg a:hover {
-     background-color: #7bb8f1;
+     background-color: #ffde59;
      color: #fff;
 }
 
@@ -342,7 +342,7 @@ ul.costomer li a {
 /** description section **/
 
 .description {
-     margin-top: 70px;
+     margin-top: 0px;
      background: #292929;
      font-family: Poppins;
      padding: 80px 0;
@@ -391,20 +391,20 @@ ul.costomer li a {
 .bg {
      font-size: 22px;
      background-color: transparent;
-     color: #7bb8f1;
+     color: #ffde59;
      padding: 9px 0px;
      width: 300%;
      max-width: 290px;
      float: center;
      margin-top: 20px;
-     border: rgb(123, 184, 241) solid 2px;
+     border: #ffde59 solid 2px;
      text-transform: uppercase;
      font-weight: 600;
 }
 
 .bg:hover {
-     background: #7bb8f1;
-     color: #fff;
+     background: #ffde59;
+     color: #000;
 }
 
 .main_description {
@@ -435,7 +435,7 @@ ul.costomer li a {
      cursor: pointer;
      font-size: 30px;
      line-height: 29px;
-     color: #7bb8f1;
+     color: #ffde59;
 }
 
 .faq_main .faq_box {
@@ -461,7 +461,6 @@ ul.costomer li a {
           margin-left: 0%;
      }
 }
-
 .simpaly {
      padding: 10px 10px 10px 20px;
      border: #eee solid 2px;
@@ -469,7 +468,7 @@ ul.costomer li a {
 }
 
 .slider a {
-     color: #7bb8f1;
+     color: #ffde59;
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
@@ -483,7 +482,7 @@ ul.costomer li a {
      font: 1.1em 'News Cycle', sans-serif;
      padding: 1%;
      /*background: grey;*/
-     color: #7bb8f1;
+     color: #ffde59;
      margin-bottom: 1%;
      
 }
@@ -492,7 +491,7 @@ ul.costomer li a {
 }
 .slider a {
      text-decoration: none;
-     color: #7bb8f1;
+     color: #ffde59;
 }
 .content{
      font: 1em 'News Cycle', sans-serif;
@@ -533,7 +532,7 @@ ul.costomer li a {
 }
 
 .white {
-     color: #7bb8f1;
+     color: #ffde59;
 }
 
 .cont {
@@ -553,7 +552,7 @@ ul.costomer li a {
      font-size: 20px;
      transition: ease-in all 0.5s;
      background-color: #fff;
-     color: #7bb8f1;
+     color: #ffde59;
      width: 100%;
      max-width: 275px;
      padding: 7px 0px;
@@ -562,7 +561,7 @@ ul.costomer li a {
 }
 
 .cont a:hover {
-     background-color: #7bb8f1;
+     background-color: #ffde59;
      transition: ease-in all 0.5s;
      color: #eee;
 }
@@ -578,7 +577,7 @@ ul.costomer li a {
      background: #333;
 }
 
-.footer p {
+.footer p {    
      color: #eeeeee;
      font-size: 18px;
      line-height: 22px;
@@ -590,7 +589,7 @@ ul.costomer li a {
 }
 
 .footer a:hover {
-     color: #7bb8f1;
+     color: #ffde59;
 }
 
 
