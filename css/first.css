@@ -73,7 +73,7 @@
 }
 
 #navbar li a:hover {
-    color: rgb(99, 175, 247);
+    color: #dbbe46;
     transition: all 1s ease;
     -webkit-transition: all 1s ease;
 }
@@ -85,21 +85,21 @@
     width: 0%;
     height: 1px;
     bottom: -1px;
-    background: rgb(99, 175, 247);
+    background: #dbbe46;
 }
 
 #navbar li a:before {
-    left: 0;
+    left: 0;    
     transition: 0.5s;
 }
 
 #navbar li a:after {
-    background: rgb(99, 175, 247);
+    background: #dbbe46;
     right: 0;
 }
 
 #navbar li a:hover:before {
-    background: rgb(99, 175, 247);
+    background: #dbbe46;
     width: 100%;
     transition: width 0.5s cubic-bezier((0.22, 0.61, 0.36, 1));
 }
@@ -274,7 +274,7 @@
 
 .overlay-menu li a:hover,
 .overlay-menu li a:active {
-    color: rgb(28, 121, 184);
+    color: #dbbe46;
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease;
 }
