@@ -73,7 +73,7 @@
 }
 
 #navbar li a:hover {
-    color: #dbbe46;
+    color: #00ffc5;
     transition: all 1s ease;
     -webkit-transition: all 1s ease;
 }
@@ -85,7 +85,7 @@
     width: 0%;
     height: 1px;
     bottom: -1px;
-    background: #dbbe46;
+    background: #00ffc5;
 }
 
 #navbar li a:before {
@@ -94,12 +94,12 @@
 }
 
 #navbar li a:after {
-    background: #dbbe46;
+    background: #00ffc5;
     right: 0;
 }
 
 #navbar li a:hover:before {
-    background: #dbbe46;
+    background: #00ffc5;
     width: 100%;
     transition: width 0.5s cubic-bezier((0.22, 0.61, 0.36, 1));
 }
@@ -274,7 +274,7 @@
 
 .overlay-menu li a:hover,
 .overlay-menu li a:active {
-    color: #dbbe46;
+    color: #00ffc5;
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease;
 }

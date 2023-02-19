@@ -285,7 +285,7 @@ ul.costomer li a {
 }
 
 .text-bg span {
-     color: #ffde59;
+     color: #00ffc5;
      font-size: 60px;
      line-height: 77px;
      font-weight: bold;
@@ -311,7 +311,7 @@ ul.costomer li a {
 }
 
 .text-bg a:hover {
-     background-color: #ffde59;
+     background-color: #00ffc5;
      color: #fff;
 }
 
@@ -391,19 +391,19 @@ ul.costomer li a {
 .bg {
      font-size: 22px;
      background-color: transparent;
-     color: #ffde59;
+     color: #00ffc5;
      padding: 9px 0px;
      width: 300%;
      max-width: 290px;
      float: center;
      margin-top: 20px;
-     border: #ffde59 solid 2px;
+     border: #00ffc5 solid 2px;
      text-transform: uppercase;
      font-weight: 600;
 }
 
 .bg:hover {
-     background: #ffde59;
+     background: #00ffc5;
      color: #000;
 }
 
@@ -435,7 +435,7 @@ ul.costomer li a {
      cursor: pointer;
      font-size: 30px;
      line-height: 29px;
-     color: #ffde59;
+     color: #00ffc5;
 }
 
 .faq_main .faq_box {
@@ -468,7 +468,7 @@ ul.costomer li a {
 }
 
 .slider a {
-     color: #ffde59;
+     color: #00ffc5;
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
@@ -482,7 +482,7 @@ ul.costomer li a {
      font: 1.1em 'News Cycle', sans-serif;
      padding: 1%;
      /*background: grey;*/
-     color: #ffde59;
+     color: #00ffc5;
      margin-bottom: 1%;
      
 }
@@ -491,7 +491,7 @@ ul.costomer li a {
 }
 .slider a {
      text-decoration: none;
-     color: #ffde59;
+     color: #00ffc5;
 }
 .content{
      font: 1em 'News Cycle', sans-serif;
@@ -532,7 +532,7 @@ ul.costomer li a {
 }
 
 .white {
-     color: #ffde59;
+     color: #00ffc5;
 }
 
 .cont {
@@ -552,7 +552,7 @@ ul.costomer li a {
      font-size: 20px;
      transition: ease-in all 0.5s;
      background-color: #fff;
-     color: #ffde59;
+     color: #00ffc5;
      width: 100%;
      max-width: 275px;
      padding: 7px 0px;
@@ -561,7 +561,7 @@ ul.costomer li a {
 }
 
 .cont a:hover {
-     background-color: #ffde59;
+     background-color: #00ffc5;
      transition: ease-in all 0.5s;
      color: #eee;
 }
@@ -589,7 +589,7 @@ ul.costomer li a {
 }
 
 .footer a:hover {
-     color: #ffde59;
+     color: #00ffc5;
 }
 
 
