@@ -1,5 +1,5 @@
 #navbar {
-    background: rgba(40, 40, 40, 0.85);
+    background: rgba(6, 5, 48, 0.85);
     color: rgb(255, 255, 255);
     position: fixed;
     top: 0;
@@ -73,7 +73,7 @@
 }
 
 #navbar li a:hover {
-    color: #00ffc5;
+    color: #fa09ca;
     transition: all 1s ease;
     -webkit-transition: all 1s ease;
 }
@@ -85,7 +85,7 @@
     width: 0%;
     height: 1px;
     bottom: -1px;
-    background: #00ffc5;
+    background: #fa09ca;
 }
 
 #navbar li a:before {
@@ -94,12 +94,12 @@
 }
 
 #navbar li a:after {
-    background: #00ffc5;
+    background: #fa09ca;
     right: 0;
 }
 
 #navbar li a:hover:before {
-    background: #00ffc5;
+    background: #fa09ca;
     width: 100%;
     transition: width 0.5s cubic-bezier((0.22, 0.61, 0.36, 1));
 }
@@ -113,7 +113,7 @@
 @media(max-width: 640px) {
 .menuIcon {
     cursor: pointer;
-    display: block;
+    display: none; /* menu icon is not shown as it is not needed <-- one page style */
     position: fixed;
     right: 15px;
     top: 20px;
@@ -123,7 +123,7 @@
 }
 
 .icon-bars {
-    background: rgb(13, 26, 38);
+    background: rgb(6, 5, 48);
     position: absolute;
     left: 1px;
     top: 45%;
@@ -134,7 +134,7 @@
 } 
 
 .icon-bars::before {
-    background: rgb(13, 26, 38);
+    background: rgb(6, 5, 48);
     content: '';
     position: absolute;
     left: 0;
@@ -147,7 +147,7 @@
 
 .icon-bars::after {
     margin-top: 0px;
-    background: rgb(13, 26, 38);
+    background: rgb(6, 5, 48);
     content: '';
     position: absolute;
     left: 0;
@@ -274,7 +274,7 @@
 
 .overlay-menu li a:hover,
 .overlay-menu li a:active {
-    color: #00ffc5;
+    color: #fa09ca;
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease;
 }

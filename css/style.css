@@ -22,7 +22,7 @@ body {
      font-family: 'Roboto', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
-     background-color: #333;
+     background-color: #161542;
 }
 
 a {
@@ -89,6 +89,10 @@ h6 a {
      color: #eeeeee;
      text-decoration: none!important;
      opacity: 1
+}
+
+h4 a:hover{
+     color: #f90aa5;
 }
 
 button:focus {
@@ -193,11 +197,11 @@ button {
 }
 
 .light_silver {
-     background: #444444;
+     background: #161542;
 }
 
 .theme_bg {
-     background: #333;
+     background: #161542;
 }
 
 .margin_top_30 {
@@ -285,7 +289,7 @@ ul.costomer li a {
 }
 
 .text-bg span {
-     color: #00ffc5;
+     color: #fa09ca;
      font-size: 60px;
      line-height: 77px;
      font-weight: bold;
@@ -300,7 +304,7 @@ ul.costomer li a {
 
 .text-bg a {
      font-size: 16px;
-     background-color: #1f1716;
+     background-color: #161542;
      color: #fff;
      padding: 10px 0px;
      width: 100%;
@@ -311,7 +315,7 @@ ul.costomer li a {
 }
 
 .text-bg a:hover {
-     background-color: #00ffc5;
+     background-color: #fa09ca;
      color: #fff;
 }
 
@@ -343,7 +347,7 @@ ul.costomer li a {
 
 .description {
      margin-top: 0px;
-     background: #292929;
+     background: #1b1a52;
      font-family: Poppins;
      padding: 80px 0;
 }
@@ -391,19 +395,19 @@ ul.costomer li a {
 .bg {
      font-size: 22px;
      background-color: transparent;
-     color: #00ffc5;
+     color: #fa09ca;
      padding: 9px 0px;
      width: 300%;
      max-width: 290px;
      float: center;
      margin-top: 20px;
-     border: #00ffc5 solid 2px;
+     border: #fa09ca solid 2px;
      text-transform: uppercase;
      font-weight: 600;
 }
 
 .bg:hover {
-     background: #00ffc5;
+     background: #fa09ca;
      color: #000;
 }
 
@@ -435,7 +439,7 @@ ul.costomer li a {
      cursor: pointer;
      font-size: 30px;
      line-height: 29px;
-     color: #00ffc5;
+     color: #fa09ca;
 }
 
 .faq_main .faq_box {
@@ -447,7 +451,7 @@ ul.costomer li a {
 
 .faq_img {
      margin-right: -15%;
-     max-width: 539px;
+     max-width: 470px;
      width: 100%;
      float: right;
 }
@@ -468,21 +472,27 @@ ul.costomer li a {
 }
 
 .slider a {
-     color: #00ffc5;
+     color: #fff;
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
 }
 
+.slider a:focus {
+     color: #fa09ca;
+}
+
+.slider a:hover {
+     color: #fa09ca;
+}
+
 @import "bourbon";
-/*$white:#fff;*/
-/*$grey: #999;*/
 @import url(https://fonts.googleapis.com/css?family=News+Cycle);
+
 .slider {
      font: 1.1em 'News Cycle', sans-serif;
      padding: 1%;
-     /*background: grey;*/
-     color: #00ffc5;
+     color: #fa09ca;
      margin-bottom: 1%;
      
 }
@@ -491,8 +501,17 @@ ul.costomer li a {
 }
 .slider a {
      text-decoration: none;
-     color: #00ffc5;
+     color: #fff;
 }
+
+.slider a:focus {
+     color: #fa09ca;
+}
+
+.slider a:hover {
+     color: #fa09ca;
+}
+
 .content{
      font: 1em 'News Cycle', sans-serif;
      padding: 1%;
@@ -502,7 +521,6 @@ ul.costomer li a {
      margin-bottom: 1%;
      color: #eee;
 }
-
 /** end faq section **/
 
 
@@ -516,7 +534,7 @@ ul.costomer li a {
 .contact {
      padding: 90px 0px;
      font-family: Poppins;
-     background-color: #292929;
+     background-color: #090930;
 }
 
 
@@ -531,8 +549,8 @@ ul.costomer li a {
      position: absolute;
 }
 
-.white {
-     color: #00ffc5;
+.accentColor {
+     color: #fa09ca;
 }
 
 .cont {
@@ -552,7 +570,7 @@ ul.costomer li a {
      font-size: 20px;
      transition: ease-in all 0.5s;
      background-color: #fff;
-     color: #00ffc5;
+     color: #fa09ca;
      width: 100%;
      max-width: 275px;
      padding: 7px 0px;
@@ -561,7 +579,7 @@ ul.costomer li a {
 }
 
 .cont a:hover {
-     background-color: #00ffc5;
+     background-color: #fa09ca;
      transition: ease-in all 0.5s;
      color: #eee;
 }
@@ -574,7 +592,7 @@ ul.costomer li a {
 
 .footer {
      padding: 20px 0px;
-     background: #333;
+     background: #161542;
 }
 
 .footer p {    
@@ -589,7 +607,7 @@ ul.costomer li a {
 }
 
 .footer a:hover {
-     color: #00ffc5;
+     color: #fa09ca;
 }
 
 
